@@ -29,7 +29,6 @@ rytr.me
 grammarly.com
 quillbot.com
 wordtune.com
-canva.com
 gamma.app
 tome.app
 uizard.io
@@ -79,7 +78,6 @@ beautiful.ai
 slidesai.io
 decktopus.com
 pitch.com
-prezi.com
 10web.io
 framer.com
 bookmark.com
